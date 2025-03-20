@@ -1,3 +1,4 @@
+# FPU - Floating Point Unit
 # Introduction
 This project aims to implement a floating point unit (FPU) using Verilog. The FPU is designed to handle floating-point operations, adhering to the IEEE 754 standard for binary floating-point arithmetic.
 
